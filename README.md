@@ -1,4 +1,4 @@
-# File_Carving
+# File Carving
 Tool that can be used to extract hidden files from base64 encoded corrupted file.
 
 To run the program, follow these steps:
